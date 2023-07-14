@@ -1,0 +1,57 @@
+.container-fluid{
+    background-image: url(bg.jpg);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    overflow: hidden;
+    z-index: -1;
+    position: absolute;
+  }
+  
+  /* .container-fluid img{
+    position: absolute;
+    width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+  } */
+
+  .year{
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 20px;
+  }
+
+  .college{
+    margin-left: 200px;
+    margin-top: -45px;
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+  .obj{
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+  .ski{
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 20px;
+  }
+
+  .lan{
+    margin-left: 200px;
+    margin-top: -30px;
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+  .lan1{
+    margin-left: 330px;
+    margin-top: -30px;
+    font-size: x-large;
+    font-weight: bold;
+  }
